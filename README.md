@@ -8,7 +8,7 @@ This project as a whole was a big learning experience for myself as I take great
 - I managed the increasing data volume, optimizing data reconstruction algorithms to handle larger datasets without compromising performance as I grew in experience.
 
 **What did I achieve?**
-- I successfully reconstructed 99% of missing data, resulting in a more comprehensive dataset for analysis and reporting purposes.
+- I successfully reconstructed 99% of misaligned data, resulting in a more comprehensive dataset for analysis and reporting purposes.
 - I reduced data discrepancies resulting in a very accurate dataset that serves as a reliable foundation for insights.
 - I ensured data consistency across all fields, eliminating inconsistencies and enabling a cohesive view of the data across the organization.
 
