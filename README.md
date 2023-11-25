@@ -1,5 +1,5 @@
 # The Rookie's Mistake: A Data Cleaning Project
-This project as a whole was a big learning experience for myself as I take great joy in how unique it is and I pride myself in believing this isn't your regular "Data Cleaning Project" for Structured Query Language (SQL). Check out my [medium article](https://bit.ly/3rJkR0U) for my documentation on this project but while you are here, here is a summary:
+This project as a whole was a big learning experience for myself as I take great joy in how unique it is and I pride myself in believing this isn't your regular "Data Cleaning Project" for Structured Query Language (SQL). Check out my [medium article](https://bit.ly/3rrZPUv) for my documentation on this project but while you are here, here is a summary:
 
 **What challenges did I face?**
 - I detected and rectified data anomalies and outliers, applying data validation techniques to improve data quality and accuracy.
